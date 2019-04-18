@@ -1,3 +1,3 @@
-# Algorithmic Trading Fund Scheme
+# Fund Design
 
 ![Scheme](./resources/Scheme.png)
